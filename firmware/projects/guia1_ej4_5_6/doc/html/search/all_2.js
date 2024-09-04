@@ -955,6 +955,7 @@ var searchData=
   ['config_5fws_5ftransport_952',['CONFIG_WS_TRANSPORT',['../config_2sdkconfig_8h.html#a8bef0acbecabee00c35825de196b26ea',1,'sdkconfig.h']]],
   ['config_5fxtal_5ffreq_953',['CONFIG_XTAL_FREQ',['../bootloader_2config_2sdkconfig_8h.html#a9da96d1aef747f7e2d4327d435679aa6',1,'CONFIG_XTAL_FREQ:&#160;sdkconfig.h'],['../config_2sdkconfig_8h.html#a9da96d1aef747f7e2d4327d435679aa6',1,'CONFIG_XTAL_FREQ:&#160;sdkconfig.h']]],
   ['config_5fxtal_5ffreq_5f40_954',['CONFIG_XTAL_FREQ_40',['../bootloader_2config_2sdkconfig_8h.html#a4fca555c9c9423bd28d21163f3967ac1',1,'CONFIG_XTAL_FREQ_40:&#160;sdkconfig.h'],['../config_2sdkconfig_8h.html#a4fca555c9c9423bd28d21163f3967ac1',1,'CONFIG_XTAL_FREQ_40:&#160;sdkconfig.h']]],
-  ['converttobcdarray_955',['convertToBcdArray',['../guia1__ej4__5__6_8c.html#a6b7f24f55b1a9baad08cbd84160adb1a',1,'guia1_ej4_5_6.c']]],
-  ['cxx_5fstd_956',['CXX_STD',['../bootloader_2_c_make_files_23_824_80_2_compiler_id_c_x_x_2_c_make_c_x_x_compiler_id_8cpp.html#a34cc889e576a1ae6c84ae9e0a851ba21',1,'CXX_STD:&#160;CMakeCXXCompilerId.cpp'],['../_c_make_files_23_824_80_2_compiler_id_c_x_x_2_c_make_c_x_x_compiler_id_8cpp.html#a34cc889e576a1ae6c84ae9e0a851ba21',1,'CXX_STD:&#160;CMakeCXXCompilerId.cpp']]]
+  ['connection_955',['Hardware Connection',['../index.html#hardConn',1,'']]],
+  ['converttobcdarray_956',['convertToBcdArray',['../guia1__ej4__5__6_8c.html#a6b7f24f55b1a9baad08cbd84160adb1a',1,'guia1_ej4_5_6.c']]],
+  ['cxx_5fstd_957',['CXX_STD',['../bootloader_2_c_make_files_23_824_80_2_compiler_id_c_x_x_2_c_make_c_x_x_compiler_id_8cpp.html#a34cc889e576a1ae6c84ae9e0a851ba21',1,'CXX_STD:&#160;CMakeCXXCompilerId.cpp'],['../_c_make_files_23_824_80_2_compiler_id_c_x_x_2_c_make_c_x_x_compiler_id_8cpp.html#a34cc889e576a1ae6c84ae9e0a851ba21',1,'CXX_STD:&#160;CMakeCXXCompilerId.cpp']]]
 ];
