@@ -35,6 +35,9 @@
         },
         {
             "path": "projects/guia2_ej3"
+        },
+        {
+            "path": "projects/guia2_ej4"
         }
     ],
     "settings": {
@@ -90,7 +93,9 @@
             "soc_caps.h": "c",
             "mpu6050.h": "c",
             "i2c_mcu.h": "c",
-            "cstdint": "c"
+            "cstdint": "c",
+            "stdio.h": "c",
+            "string.h": "c"
         },
     },
     "tasks": {
